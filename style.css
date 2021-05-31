@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    color: aqua;
+}
+
+h4 {
+    color: crimson;
+}
+
+h1 {
+    color: yellow;
+}
+img {
+    text-align: center;
+    border: bold;
+    border-color: darkblue;
+}
